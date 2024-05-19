@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A Space To Speak</string>
+    <string name="Input_Prompt">What\'s on your mind?</string>
+    <string name="greeting">Hi.</string>
+    <string name="buttonText">Send</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="log_out">Log out</string>
+    <string name="send_a_message">Send a message.</string>
+    <string name="welcome">Welcome.</string>
+    <string name="have_a_look_around">Have a look around.</string>
+    <string name="home">Home</string>
+</resources>

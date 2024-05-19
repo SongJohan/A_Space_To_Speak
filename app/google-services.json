@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187895923119",
+    "project_id": "a-space-to-speak-d4df8",
+    "storage_bucket": "a-space-to-speak-d4df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187895923119:android:c3f929d627d469ce0f6f5a",
+        "android_client_info": {
+          "package_name": "com.example.aspacetospeak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdOygdjdz_T7VDToM9VR96n3hQytYZm3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
