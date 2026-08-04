@@ -1,4 +1,4 @@
-# 🌌 A Space To Speak
+# A Space To Speak
 **Winner: Best Beginner Project @ StormHacks 2024**
 
 A place to hear and be heard in the vastness of our universe.
